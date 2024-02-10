@@ -4,36 +4,9 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 
 ## Contents
 
-* [Community](#community)
 * [Documentation](#documentation)
-* [Videos](#videos)
-* [Toolchains](#toolchains)
-* [Assemblers](#assemblers)
 * [Emulators](#emulators)
-    * [Actively Maintained](#actively-maintained)
-    * [Works In Progress](#works-in-progress)
-    * [Unmaintained](#unmaintained)
-* [Development Hardware](#development-hardware)
-* [Tools and Libraries](#tools-and-libraries)
-    * [Development Cartridge Loaders](#development-cartridge-loaders)
-    * [Flashcart Menu Software](#flashcart-menu-software)
-    * [Asset Conversion and Viewing](#asset-conversion-and-viewing)
-        * [3D](#3d)
-        * [2D](#2d)
-    * [Audio Playback and Editing](#audio-playback-and-editing)
-    * [Debugging](#debugging)
-    * [ROM Manipulation](#rom-manipulation)
-    * [Development Libraries](#development-libraries)
 * [Reverse Engineering](#reverse-engineering)
-    * [Projects](#projects)
-    * [Guides and Reference](#guides-and-reference)
-    * [Tools and Disassemblers](#tools-and-disassemblers)
-* [Programming](#programming)
-    * [Assembly](#assembly)
-    * [C](#c)
-        * [Guides](#guides)
-        * [Example Code](#example-code)
-    * [Rust](#rust)
 
 ## Documentation
 
